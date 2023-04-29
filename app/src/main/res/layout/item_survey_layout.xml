@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="*">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:id="@+id/table_layout"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*">
+
+
+            <TableRow
+                android:id="@+id/row_table">
+
+                <CheckBox
+                    android:id="@+id/checkbox_survey"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center" />
+
+
+                <TextView
+                    android:id="@+id/tv_datetime"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="15dp" />
+
+
+                <TextView
+                    android:id="@+id/tv_city"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_fso"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="15dp" />
+
+
+                <TextView
+                    android:id="@+id/tv_location"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="15dp" />
+            </TableRow>
+
+        </TableLayout>
+
+    </HorizontalScrollView>
+
+</TableLayout>

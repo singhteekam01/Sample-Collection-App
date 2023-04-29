@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/circle_green.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/circle_red.xml" value="0.2" />
+        <entry key="app/src/main/res/drawable/circlebackgreen.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/circlebackpink.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/circlebackpurple.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/circlebackyellow.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/edittext_box.xml" value="0.34270833333333334" />
+        <entry key="app/src/main/res/drawable/edittext_shadow.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/ic_baseline_control_point_24.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/ic_baseline_fact_check_24.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/ic_baseline_flight_takeoff_24.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/ic_baseline_how_to_reg_24.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/drawable/status.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30520833333333336" />
+        <entry key="app/src/main/res/layout/activity_sample_schedule.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/activity_survey.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/date_popup.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/forgetpass_layout.xml" value="0.3125" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/item_schedule_layout.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/layout/item_survey_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/table_popup.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/time_picker.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/layout/time_popup.xml" value="0.2558876811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
